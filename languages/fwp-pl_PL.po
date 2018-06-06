@@ -1,0 +1,1247 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FacetWP\n"
+"POT-Creation-Date: 2018-05-29 12:09-0400\n"
+"PO-Revision-Date: 2018-05-29 12:09-0400\n"
+"Last-Translator: Matt Gibbs <hello@facetwp.com>\n"
+"Language-Team: Matt Gibbs <hello@facetwp.com>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:67
+#: includes/class-settings-admin.php:200
+msgid "Results per row"
+msgstr ""
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:72
+#: includes/class-settings-admin.php:201
+msgid "Grid gap"
+msgstr ""
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:77
+#: includes/class-settings-admin.php:202
+msgid "Text style"
+msgstr ""
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:87
+#: includes/class-settings-admin.php:203
+msgid "Text color"
+msgstr ""
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:92
+#: includes/class-settings-admin.php:204
+msgid "Font size"
+msgstr ""
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:101
+#: includes/class-settings-admin.php:205
+msgid "Background color"
+msgstr ""
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:106
+#: includes/class-settings-admin.php:206
+msgid "Border"
+msgstr ""
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:122
+#: includes/class-settings-admin.php:207
+msgid "Border style"
+msgstr ""
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:124
+#: assets/js/src/admin.js:242 assets/js/src/admin.js:267
+#: assets/js/src/admin.js:318 includes/class-settings-admin.php:31
+#: includes/class-settings-admin.php:208 includes/facets/proximity.php:222
+msgid "None"
+msgstr "Żaden"
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:125
+#: includes/class-settings-admin.php:209
+msgid "Solid"
+msgstr ""
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:126
+#: includes/class-settings-admin.php:210
+msgid "Dashed"
+msgstr ""
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:127
+#: includes/class-settings-admin.php:211
+msgid "Dotted"
+msgstr ""
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:128
+#: includes/class-settings-admin.php:212
+msgid "Double"
+msgstr ""
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:133
+#: includes/class-settings-admin.php:213
+msgid "Border color"
+msgstr ""
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:137
+#: includes/class-settings-admin.php:214
+msgid "Border width"
+msgstr ""
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:143
+#: includes/class-settings-admin.php:215
+msgid "Button text"
+msgstr ""
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:147
+#: includes/class-settings-admin.php:216
+msgid "Button text color"
+msgstr ""
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:151
+msgid "Button color"
+msgstr ""
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:155
+#: includes/class-settings-admin.php:217
+msgid "Button padding"
+msgstr ""
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:166
+#: includes/class-settings-admin.php:218
+#, fuzzy
+#| msgid "Separators"
+msgid "Separator"
+msgstr "Separatory"
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:171
+#: includes/class-settings-admin.php:219
+#, fuzzy
+#| msgid "Custom Fields"
+msgid "Custom CSS"
+msgstr "Własne pola"
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:176
+#: includes/class-settings-admin.php:220
+msgid "Column widths"
+msgstr ""
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:181
+#: includes/class-settings-admin.php:221 includes/class-settings-admin.php:267
+msgid "Content"
+msgstr ""
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:185
+#: includes/class-settings-admin.php:222
+msgid "Image size"
+msgstr ""
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:200
+#: includes/class-settings-admin.php:223
+#, fuzzy
+#| msgid "Custom Fields"
+msgid "Author field"
+msgstr "Własne pola"
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:203
+#: includes/class-settings-admin.php:224
+#, fuzzy
+#| msgid "Display Value"
+msgid "Display name"
+msgstr "Pokaż wartość"
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:204
+#: includes/class-settings-admin.php:225
+msgid "User login"
+msgstr ""
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:205
+#: includes/class-settings-admin.php:226
+msgid "User ID"
+msgstr ""
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:210
+#: includes/class-settings-admin.php:227
+#, fuzzy
+#| msgid "Facet type"
+msgid "Field type"
+msgstr "Typ Faceta"
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:220
+#: includes/class-settings-admin.php:231
+#, fuzzy
+#| msgid "Display format"
+msgid "Date format"
+msgstr "Format wyświetlania"
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:230
+#: includes/class-settings-admin.php:232
+#, fuzzy
+#| msgid "The number format"
+msgid "Input format"
+msgstr "Format liczby"
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:240
+#: includes/class-settings-admin.php:233
+#, fuzzy
+#| msgid "The number format"
+msgid "Number format"
+msgstr "Format liczby"
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:256
+#: includes/class-settings-admin.php:234
+msgid "Link"
+msgstr ""
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:265
+#: includes/class-settings-admin.php:235
+msgid "Link type"
+msgstr ""
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:268
+#: includes/class-settings-admin.php:236
+#, fuzzy
+#| msgid "Posts"
+msgid "Post URL"
+msgstr "Wpisy"
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:269
+#: assets/js/src/admin.js:320 includes/class-settings-admin.php:237
+#, fuzzy
+#| msgid "Custom Fields"
+msgid "Custom URL"
+msgstr "Własne pola"
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:276
+#: includes/class-settings-admin.php:239 includes/facets/slider.php:156
+msgid "Prefix"
+msgstr "Prefix"
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:280
+#: includes/class-settings-admin.php:240 includes/facets/slider.php:166
+msgid "Suffix"
+msgstr "Suffix"
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:285
+#: includes/class-settings-admin.php:241
+msgid "Hide item?"
+msgstr ""
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:290
+#: includes/class-settings-admin.php:242
+#, fuzzy
+#| msgid "Loading"
+msgid "Padding"
+msgstr "Ładowanie"
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:302
+#: includes/class-settings-admin.php:243
+msgid "Unique name"
+msgstr ""
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:307
+#: includes/class-settings-admin.php:244
+msgid "CSS class"
+msgstr ""
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:313
+#: includes/class-settings-admin.php:245
+msgid "Button border"
+msgstr ""
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:319
+#: includes/class-settings-admin.php:246
+msgid "Term URL"
+msgstr ""
+
+#: assets/js/dist/admin.min.js:1 includes/class-settings-admin.php:264
+#, fuzzy
+#| msgid "Enter keywords"
+msgid "Enter term slugs"
+msgstr "Wprowadź słowa kluczowe"
+
+#: assets/js/dist/admin.min.js:1 includes/class-settings-admin.php:265
+#, fuzzy
+#| msgid "Enter keywords"
+msgid "Enter values"
+msgstr "Wprowadź słowa kluczowe"
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:846
+#: includes/class-settings-admin.php:266
+msgid "Layout"
+msgstr ""
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:875
+#: includes/class-settings-admin.php:270
+msgid "Row"
+msgstr ""
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:882
+#: includes/class-settings-admin.php:271
+msgid "Column"
+msgstr ""
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:1617
+#: includes/class-settings-admin.php:285
+msgid "Saving"
+msgstr "Zapisywanie"
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:1653
+#: assets/js/src/admin.js:1694 includes/class-settings-admin.php:286
+msgid "Indexing"
+msgstr "Indeksowanie"
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:1690
+#: includes/class-settings-admin.php:287
+msgid "Indexing complete"
+msgstr "Indeksowanie jest kompletne"
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:1746
+#: includes/class-settings-admin.php:290
+msgid "Copied!"
+msgstr ""
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:1749
+#: includes/class-settings-admin.php:291
+msgid "Press CTRL+C to copy"
+msgstr ""
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:1757
+#: includes/class-settings-admin.php:292
+msgid "Activating"
+msgstr "Aktywowanie"
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:1806
+#: includes/class-settings-admin.php:294
+msgid "Stop indexer"
+msgstr ""
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:1806
+#: includes/class-settings-admin.php:293
+msgid "Re-index"
+msgstr "Ponowne indeksowanie"
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:1822
+#: includes/class-settings-admin.php:295
+msgid "Loading"
+msgstr "Ładowanie"
+
+#: assets/js/dist/admin.min.js:1 assets/js/src/admin.js:1837
+#: includes/class-settings-admin.php:296
+msgid "Importing"
+msgstr "Importowanie"
+
+#: includes/class-ajax.php:224
+#, fuzzy
+msgid "FacetWP was unable to auto-detect the post listing"
+msgstr "FacetWP był w stanie automatycznie wykryć ogłoszeń"
+
+#: includes/class-ajax.php:253
+msgid "Settings saved"
+msgstr "Ustawienia zapisane"
+
+#: includes/class-ajax.php:260
+msgid "Error: invalid JSON"
+msgstr "Błąd: Nieprawidłowy JSON"
+
+#: includes/class-ajax.php:331
+msgid "Done, please re-index"
+msgstr ""
+
+#: includes/class-ajax.php:430
+msgid "Nothing to import"
+msgstr "Nie ma nic do zaimportowania"
+
+#: includes/class-ajax.php:466
+msgid "Imported"
+msgstr "Zaimportowano"
+
+#: includes/class-ajax.php:469
+msgid "Skipped"
+msgstr "Pominięto"
+
+#: includes/class-ajax.php:500
+msgid "Error"
+msgstr "Błąd"
+
+#: includes/class-display.php:162
+#, fuzzy
+#| msgid "No results"
+msgid "No results found"
+msgstr "Nie znaleziono żadnych wyników"
+
+#: includes/class-helper.php:435 includes/class-settings-admin.php:252
+msgid "Posts"
+msgstr "Wpisy"
+
+#: includes/class-helper.php:437 includes/class-settings-admin.php:255
+msgid "Post Type"
+msgstr "Typ wpisu"
+
+#: includes/class-helper.php:438 includes/class-settings-admin.php:256
+msgid "Post Date"
+msgstr "Data wpisu"
+
+#: includes/class-helper.php:439 includes/class-settings-admin.php:257
+msgid "Post Modified"
+msgstr "Wpis zmodyfikowany"
+
+#: includes/class-helper.php:440 includes/class-settings-admin.php:253
+msgid "Post Title"
+msgstr "Tytuł wpisu"
+
+#: includes/class-helper.php:441
+msgid "Post Author"
+msgstr "Autor wpisu"
+
+#: includes/class-helper.php:446
+msgid "Taxonomies"
+msgstr "Taksonomie"
+
+#: includes/class-helper.php:451 includes/class-settings-admin.php:259
+msgid "Custom Fields"
+msgstr "Własne pola"
+
+#: includes/class-init.php:138 templates/page-settings.php:91
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: includes/class-init.php:170
+msgid "integration add-on"
+msgstr "Dodatek integracyjny"
+
+#: includes/class-init.php:171
+#, php-format
+msgid "To use FacetWP with %s, please install the %s, then re-index."
+msgstr ""
+"Aby używać FacetWP z %s, proszę zainstalować %s, następnie ponownie "
+"zaindeksować."
+
+#: includes/class-renderer.php:516 includes/class-renderer.php:633
+msgid "of"
+msgstr "z"
+
+#: includes/class-renderer.php:550 includes/class-settings-admin.php:251
+#: includes/facets/checkboxes.php:326 includes/facets/dropdown.php:141
+#: includes/facets/fselect.php:312 includes/facets/hierarchy.php:187
+#: includes/facets/radio.php:190
+msgid "Sort by"
+msgstr "Sortuj"
+
+#: includes/class-renderer.php:554
+msgid "Title (A-Z)"
+msgstr "Tytuł (A-Z)"
+
+#: includes/class-renderer.php:561
+msgid "Title (Z-A)"
+msgstr "Tytuł (Z-A"
+
+#: includes/class-renderer.php:568
+msgid "Date (Newest)"
+msgstr "Data (najnowsze)"
+
+#: includes/class-renderer.php:575
+msgid "Date (Oldest)"
+msgstr "Data (Najstarsze)"
+
+#: includes/class-renderer.php:632
+msgid "Page"
+msgstr "Strona"
+
+#: includes/class-renderer.php:683
+msgid "Per page"
+msgstr "Na stronę"
+
+#: includes/class-settings-admin.php:14
+#, fuzzy
+msgid "General"
+msgstr "Ogólne"
+
+#: includes/class-settings-admin.php:17
+msgid "License Key"
+msgstr "Klucz licencyjny"
+
+#: includes/class-settings-admin.php:21
+#, fuzzy
+msgid "Google Maps API Key"
+msgstr "Google Maps Klucz API"
+
+#: includes/class-settings-admin.php:25
+msgid "Separators"
+msgstr "Separatory"
+
+#: includes/class-settings-admin.php:29
+msgid "Loading Animation"
+msgstr "Animacja ładowania"
+
+#: includes/class-settings-admin.php:31
+msgid "Fade"
+msgstr "Zanikanie"
+
+#: includes/class-settings-admin.php:31
+msgid "Spin"
+msgstr "Spin"
+
+#: includes/class-settings-admin.php:35
+#, fuzzy
+#| msgid "Prefix"
+msgid "URL Prefix"
+msgstr "Prefix"
+
+#: includes/class-settings-admin.php:41
+msgid "Debug Mode"
+msgstr "Tryb debugowania"
+
+#: includes/class-settings-admin.php:47
+#: includes/integrations/woocommerce/woocommerce.php:48
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: includes/class-settings-admin.php:50
+msgid "Support product variations?"
+msgstr "Wspierać wariacje produktów?"
+
+#: includes/class-settings-admin.php:51
+msgid "Enable if your store uses variable products."
+msgstr ""
+
+#: includes/class-settings-admin.php:55
+msgid "Include all products?"
+msgstr "Dołączyć wszystkie produkty?"
+
+#: includes/class-settings-admin.php:56
+msgid "Show facet choices for out-of-stock products?"
+msgstr ""
+
+#: includes/class-settings-admin.php:62
+#, fuzzy
+#| msgid "Back"
+msgid "Backup"
+msgstr "Zapasowy"
+
+#: includes/class-settings-admin.php:65 includes/class-settings-admin.php:118
+msgid "Export"
+msgstr "Eksport"
+
+#: includes/class-settings-admin.php:69 includes/class-settings-admin.php:126
+msgid "Import"
+msgstr "Import"
+
+#: includes/class-settings-admin.php:94
+msgid "Activate"
+msgstr "Aktywuj"
+
+#: includes/class-settings-admin.php:123
+msgid "Paste the import code here"
+msgstr "Wklej tutaj kod importu"
+
+#: includes/class-settings-admin.php:124
+msgid "Overwrite existing items?"
+msgstr "Zastąpić istniejące elementy?"
+
+#: includes/class-settings-admin.php:176
+msgid "Not yet activated"
+msgstr "Jeszcze nie aktywny"
+
+#: includes/class-settings-admin.php:182
+msgid "License active"
+msgstr "Licencja aktywna"
+
+#: includes/class-settings-admin.php:183
+msgid "expires"
+msgstr "wygasa"
+
+#: includes/class-settings-admin.php:228
+msgid "Text"
+msgstr ""
+
+#: includes/class-settings-admin.php:229 includes/facets/date_range.php:22
+msgid "Date"
+msgstr "Data"
+
+#: includes/class-settings-admin.php:230 includes/facets/number_range.php:22
+#, fuzzy
+#| msgid "Number Range"
+msgid "Number"
+msgstr "Zakres liczb"
+
+#: includes/class-settings-admin.php:238
+msgid "Open in new tab?"
+msgstr ""
+
+#: includes/class-settings-admin.php:247
+msgid "Fetch"
+msgstr ""
+
+#: includes/class-settings-admin.php:248
+msgid "All post types"
+msgstr "Wszystkie typy postu"
+
+#: includes/class-settings-admin.php:249
+msgid "and show"
+msgstr ""
+
+#: includes/class-settings-admin.php:250
+#, fuzzy
+#| msgid "Per page"
+msgid "per page"
+msgstr "Na stronę"
+
+#: includes/class-settings-admin.php:254
+#, fuzzy
+#| msgid "Post Date"
+msgid "Post Name"
+msgstr "Data wpisu"
+
+#: includes/class-settings-admin.php:258
+#, fuzzy
+msgid "Menu Order"
+msgstr "Kolejność warunków"
+
+#: includes/class-settings-admin.php:260
+#, fuzzy
+#| msgid "No results"
+msgid "Narrow results by"
+msgstr "Brak wyników"
+
+#: includes/class-settings-admin.php:261
+msgid "Hit Enter"
+msgstr ""
+
+#: includes/class-settings-admin.php:262
+msgid "Add sort"
+msgstr ""
+
+#: includes/class-settings-admin.php:263
+msgid "Add filter"
+msgstr ""
+
+#: includes/class-settings-admin.php:268
+msgid "Style"
+msgstr ""
+
+#: includes/class-settings-admin.php:269
+msgid "Advanced"
+msgstr ""
+
+#: includes/class-settings-admin.php:272 includes/facets/autocomplete.php:61
+#, fuzzy
+#| msgid "Start typing..."
+msgid "Start typing"
+msgstr "Zacznij pisać..."
+
+#: includes/class-settings-admin.php:273
+msgid "Label"
+msgstr "Etykieta"
+
+#: includes/class-settings-admin.php:274
+msgid "Name"
+msgstr "Nazwa"
+
+#: includes/class-settings-admin.php:275
+msgid "Facet type"
+msgstr "Typ Faceta"
+
+#: includes/class-settings-admin.php:276
+msgid "Copy shortcode"
+msgstr ""
+
+#: includes/class-settings-admin.php:277
+msgid "Data source"
+msgstr "Źródło danych"
+
+#: includes/class-settings-admin.php:278
+msgid "Switch to advanced mode"
+msgstr ""
+
+#: includes/class-settings-admin.php:279
+msgid "Switch to visual mode"
+msgstr ""
+
+#: includes/class-settings-admin.php:280
+#, fuzzy
+#| msgid "Display Code"
+msgid "Display"
+msgstr "Kod do wyświetlania"
+
+#: includes/class-settings-admin.php:281
+msgid "Query"
+msgstr ""
+
+#: includes/class-settings-admin.php:282
+msgid "Help"
+msgstr ""
+
+#: includes/class-settings-admin.php:283
+msgid "Display Code"
+msgstr "Kod do wyświetlania"
+
+#: includes/class-settings-admin.php:284
+msgid "Query Arguments"
+msgstr "Argumenty zapytania"
+
+#: includes/class-settings-admin.php:288
+msgid "Looking"
+msgstr ""
+
+#: includes/class-settings-admin.php:289
+msgid "Purging"
+msgstr ""
+
+#: includes/class-updater.php:107
+msgid "Please activate or renew your license for automatic updates."
+msgstr "Proszę aktywować lub odnowić licencję na automatyczne aktualizacje."
+
+#: includes/facets/autocomplete.php:10
+msgid "Autocomplete"
+msgstr "Automatyczne wypełnianie"
+
+#: includes/facets/autocomplete.php:64 includes/facets/number_range.php:31
+msgid "Go"
+msgstr ""
+
+#: includes/facets/autocomplete.php:97
+msgid "No results"
+msgstr "Brak wyników"
+
+#: includes/facets/autocomplete.php:157 includes/facets/search.php:75
+msgid "Placeholder text"
+msgstr "Placeholder"
+
+#: includes/facets/checkboxes.php:7
+msgid "Checkboxes"
+msgstr "Pola wyboru"
+
+#: includes/facets/checkboxes.php:131
+msgid "See {num} more"
+msgstr "Zobacz {num} więcej"
+
+#: includes/facets/checkboxes.php:132 includes/facets/hierarchy.php:152
+msgid "See less"
+msgstr "Zobacz mniej"
+
+#: includes/facets/checkboxes.php:237 includes/facets/dropdown.php:127
+#: includes/facets/fselect.php:227 includes/facets/radio.php:146
+msgid "Parent term"
+msgstr "Wyrażenie nadrzędne"
+
+#: includes/facets/checkboxes.php:252 includes/facets/dropdown.php:153
+#: includes/facets/fselect.php:253
+msgid "Hierarchical"
+msgstr "Hierarchiczny"
+
+#: includes/facets/checkboxes.php:255 includes/facets/dropdown.php:156
+#: includes/facets/fselect.php:256
+msgid "Is this a hierarchical taxonomy?"
+msgstr "Czy to jest hierarchiczna taksonomia?"
+
+#: includes/facets/checkboxes.php:267
+#, fuzzy
+msgid "Show expanded"
+msgstr "Pokaż rozszerzony"
+
+#: includes/facets/checkboxes.php:270
+#, fuzzy
+msgid "Should child terms be visible by default?"
+msgstr "Czy dziecko warunki powinny być domyślnie widoczne?"
+
+#: includes/facets/checkboxes.php:282 includes/facets/fselect.php:268
+#: includes/facets/radio.php:161
+msgid "Show ghosts"
+msgstr "Pokaż duchy"
+
+#: includes/facets/checkboxes.php:285 includes/facets/fselect.php:271
+#: includes/facets/radio.php:164
+msgid "Show choices that would return zero results?"
+msgstr "Pokazywać opcje, które zwracają puste wyniki?"
+
+#: includes/facets/checkboxes.php:297 includes/facets/fselect.php:283
+#: includes/facets/radio.php:176
+msgid "Preserve ghost order"
+msgstr "Zachowaj kolejność duchów"
+
+#: includes/facets/checkboxes.php:300 includes/facets/fselect.php:286
+#: includes/facets/radio.php:179
+msgid "Keep ghost choices in the same order?"
+msgstr "Zachowywać duchy w tej samej kolejności?"
+
+#: includes/facets/checkboxes.php:312 includes/facets/fselect.php:298
+msgid "Behavior"
+msgstr "Zachnowanie"
+
+#: includes/facets/checkboxes.php:315 includes/facets/fselect.php:301
+msgid "How should multiple selections affect the results?"
+msgstr "Jak wiele wyborów ma wpływ na wynik?"
+
+#: includes/facets/checkboxes.php:320 includes/facets/fselect.php:306
+msgid "Narrow the result set"
+msgstr "Stwórz zestaw wyników"
+
+#: includes/facets/checkboxes.php:321 includes/facets/fselect.php:307
+msgid "Widen the result set"
+msgstr "Rozszerz zestaw wyników"
+
+#: includes/facets/checkboxes.php:329 includes/facets/dropdown.php:144
+#: includes/facets/fselect.php:315 includes/facets/hierarchy.php:190
+#: includes/facets/radio.php:193
+msgid "Highest Count"
+msgstr "Najwyższa ilość "
+
+#: includes/facets/checkboxes.php:330 includes/facets/dropdown.php:145
+#: includes/facets/fselect.php:316 includes/facets/hierarchy.php:191
+#: includes/facets/radio.php:194
+msgid "Display Value"
+msgstr "Pokaż wartość"
+
+#: includes/facets/checkboxes.php:331 includes/facets/dropdown.php:146
+#: includes/facets/fselect.php:317 includes/facets/hierarchy.php:192
+#: includes/facets/radio.php:195
+msgid "Raw Value"
+msgstr "Wartość tekstowa"
+
+#: includes/facets/checkboxes.php:332 includes/facets/dropdown.php:147
+#: includes/facets/fselect.php:318 includes/facets/hierarchy.php:193
+#: includes/facets/radio.php:196
+#, fuzzy
+msgid "Term Order"
+msgstr "Kolejność warunków"
+
+#: includes/facets/checkboxes.php:338 includes/facets/dropdown.php:168
+#: includes/facets/fselect.php:324 includes/facets/hierarchy.php:199
+#: includes/facets/radio.php:202
+msgid "Count"
+msgstr "Liczenie"
+
+#: includes/facets/checkboxes.php:341 includes/facets/dropdown.php:171
+#: includes/facets/fselect.php:327 includes/facets/hierarchy.php:202
+#: includes/facets/radio.php:205
+msgid "The maximum number of facet choices to show"
+msgstr "Maksymalna liczba opcji wyboru faceta"
+
+#: includes/facets/checkboxes.php:348
+msgid "Soft Limit"
+msgstr "Limit"
+
+#: includes/facets/checkboxes.php:351
+msgid "Show a toggle link after this many choices"
+msgstr "Pokaż łącza po wielu wyborach"
+
+#: includes/facets/date_range.php:7
+msgid "Date Range"
+msgstr "Zakres dat"
+
+#: includes/facets/date_range.php:25 includes/facets/date_range.php:160
+msgid "Start Date"
+msgstr "Początek"
+
+#: includes/facets/date_range.php:28 includes/facets/date_range.php:161
+msgid "End Date"
+msgstr "Koniec"
+
+#: includes/facets/date_range.php:111
+msgid "Clear"
+msgstr "Wyczyść"
+
+#: includes/facets/date_range.php:129 includes/facets/number_range.php:110
+#: includes/facets/slider.php:130
+msgid "Other data source"
+msgstr "Inne źródła danych"
+
+#: includes/facets/date_range.php:132 includes/facets/number_range.php:113
+#: includes/facets/slider.php:133
+msgid "Use a separate value for the upper limit?"
+msgstr "Użyć separatora znaków?"
+
+#: includes/facets/date_range.php:145 includes/facets/number_range.php:137
+#: includes/facets/slider.php:146
+msgid "Compare type"
+msgstr "Porównaj typ"
+
+#: includes/facets/date_range.php:148 includes/facets/number_range.php:140
+#: includes/facets/slider.php:149
+msgid "Basic"
+msgstr "Podstawowy"
+
+#: includes/facets/date_range.php:149 includes/facets/number_range.php:141
+#, fuzzy
+msgid "Enclose"
+msgstr "Otocz"
+
+#: includes/facets/date_range.php:150 includes/facets/number_range.php:142
+#: includes/facets/slider.php:150
+msgid "Intersect"
+msgstr "Krzyżować"
+
+#: includes/facets/date_range.php:155 includes/facets/number_range.php:126
+msgid "Fields to show"
+msgstr "Pokazywane pola"
+
+#: includes/facets/date_range.php:158
+msgid "Start + End Dates"
+msgstr "Data rozpoczęcia i zakończenia"
+
+#: includes/facets/date_range.php:159
+msgid "Exact Date"
+msgstr "Dokładna data"
+
+#: includes/facets/date_range.php:167
+msgid "Display format"
+msgstr "Format wyświetlania"
+
+#: includes/facets/dropdown.php:7 includes/facets/proximity.php:220
+msgid "Dropdown"
+msgstr "Lista rozwijana"
+
+#: includes/facets/dropdown.php:59 includes/facets/dropdown.php:122
+#: includes/facets/fselect.php:119 includes/facets/fselect.php:193
+#: includes/facets/fselect.php:222 includes/facets/hierarchy.php:67
+msgid "Any"
+msgstr "Każdy"
+
+#: includes/facets/dropdown.php:113 includes/facets/fselect.php:220
+msgid "Default label"
+msgstr "Domyślne pole"
+
+#: includes/facets/fselect.php:7
+msgid "fSelect"
+msgstr "Wybierz"
+
+#: includes/facets/fselect.php:198
+msgid "{n} selected"
+msgstr "wybrano {n}"
+
+#: includes/facets/fselect.php:199 includes/facets/search.php:7
+msgid "Search"
+msgstr "Szukaj"
+
+#: includes/facets/fselect.php:242
+msgid "Multi-select?"
+msgstr "Wielokrotny wybór?"
+
+#: includes/facets/hierarchy.php:7
+msgid "Hierarchy"
+msgstr "hierarchnia"
+
+#: includes/facets/hierarchy.php:151
+msgid "See more"
+msgstr "Zobacz więcej"
+
+#: includes/facets/number_range.php:7
+msgid "Number Range"
+msgstr "Zakres liczb"
+
+#: includes/facets/number_range.php:25 includes/facets/number_range.php:131
+msgid "Min"
+msgstr "Minimum"
+
+#: includes/facets/number_range.php:28 includes/facets/number_range.php:132
+msgid "Max"
+msgstr "Maksimum"
+
+#: includes/facets/number_range.php:129
+msgid "Min + Max"
+msgstr ""
+
+#: includes/facets/number_range.php:130
+#, fuzzy
+#| msgid "Exact Date"
+msgid "Exact"
+msgstr "Dokładna data"
+
+#: includes/facets/proximity.php:14
+msgid "Proximity"
+msgstr "Bliskość"
+
+#: includes/facets/proximity.php:63
+msgid "Enter location"
+msgstr "Wprowadź lokalizację"
+
+#: includes/facets/proximity.php:177
+#, fuzzy
+#| msgid "Enter location"
+msgid "Clear location"
+msgstr "Wyczyść lokalizacje"
+
+#: includes/facets/proximity.php:188
+#, fuzzy
+msgid "Longitude"
+msgstr "Długość geograficzna"
+
+#: includes/facets/proximity.php:191
+msgid "(Optional) use a separate longitude field"
+msgstr ""
+
+#: includes/facets/proximity.php:205
+msgid "Unit of measurement"
+msgstr "Jednostka miary"
+
+#: includes/facets/proximity.php:209
+msgid "Miles"
+msgstr "Mile"
+
+#: includes/facets/proximity.php:210
+msgid "Kilometers"
+msgstr "Kilometry"
+
+#: includes/facets/proximity.php:216
+msgid "Radius UI"
+msgstr ""
+
+#: includes/facets/proximity.php:221 includes/facets/slider.php:7
+msgid "Slider"
+msgstr "Slider"
+
+#: includes/facets/proximity.php:228
+msgid "Radius options"
+msgstr ""
+
+#: includes/facets/proximity.php:242
+#, fuzzy
+#| msgid "Slider"
+msgid "Slider range"
+msgstr "Slider"
+
+#: includes/facets/proximity.php:257
+#, fuzzy
+#| msgid "Default label"
+msgid "Default radius"
+msgstr "Domyślne pole"
+
+#: includes/facets/proximity.php:313
+msgid "Distance"
+msgstr "Odległość"
+
+#: includes/facets/radio.php:7
+msgid "Radio"
+msgstr "Radio"
+
+#: includes/facets/rating.php:7
+#, fuzzy
+#| msgid "Start typing..."
+msgid "Star Rating"
+msgstr "Zacznij pisać..."
+
+#: includes/facets/search.php:19
+msgid "Enter keywords"
+msgstr "Wprowadź słowa kluczowe"
+
+#: includes/facets/search.php:64
+msgid "Search engine"
+msgstr "Wyszukiwarka"
+
+#: includes/facets/search.php:67
+msgid "WP Default"
+msgstr "Domyślny WP"
+
+#: includes/facets/search.php:80
+#, fuzzy
+msgid "Auto refresh"
+msgstr "Automatyczne odświeżanie"
+
+#: includes/facets/search.php:83
+msgid "Automatically refresh the results while typing?"
+msgstr ""
+
+#: includes/facets/slider.php:20
+msgid "Reset"
+msgstr "Reset"
+
+#: includes/facets/slider.php:159
+msgid "Text that appears before each slider value"
+msgstr "Tekst pojawiający się przed każdą wartością slidera"
+
+#: includes/facets/slider.php:169
+msgid "Text that appears after each slider value"
+msgstr "Teks powtarzający się po każdej wartości slidera"
+
+#: includes/facets/slider.php:176
+msgid "Format"
+msgstr "Format"
+
+#: includes/facets/slider.php:179
+msgid "The number format"
+msgstr "Format liczby"
+
+#: includes/facets/slider.php:200
+msgid "Step"
+msgstr "Krok"
+
+#: includes/facets/slider.php:203
+msgid "The amount of increase between intervals"
+msgstr "Kwota wzrostu między przerwami"
+
+#: includes/integrations/acf/acf.php:250
+msgid "Yes"
+msgstr "Tak"
+
+#: includes/integrations/acf/acf.php:250
+msgid "No"
+msgstr "Nie"
+
+#: includes/integrations/searchwp/searchwp.php:105
+msgid "Default"
+msgstr "Domyślne"
+
+#: includes/integrations/woocommerce/woocommerce.php:50
+msgid "Price"
+msgstr "Cena"
+
+#: includes/integrations/woocommerce/woocommerce.php:51
+msgid "Sale Price"
+msgstr "Cena promocyjna"
+
+#: includes/integrations/woocommerce/woocommerce.php:52
+msgid "Regular Price"
+msgstr "Cena regularna"
+
+#: includes/integrations/woocommerce/woocommerce.php:53
+msgid "Average Rating"
+msgstr "Średnia ocena"
+
+#: includes/integrations/woocommerce/woocommerce.php:54
+msgid "Stock Status"
+msgstr "Stan magazynowy"
+
+#: includes/integrations/woocommerce/woocommerce.php:55
+#: includes/integrations/woocommerce/woocommerce.php:417
+msgid "On Sale"
+msgstr "Na wyczerpaniu"
+
+#: includes/integrations/woocommerce/woocommerce.php:56
+#, fuzzy
+#| msgid "Post Type"
+msgid "Product Type"
+msgstr "Typ produktu"
+
+#: includes/integrations/woocommerce/woocommerce.php:409
+msgid "In Stock"
+msgstr "Na stanie"
+
+#: includes/integrations/woocommerce/woocommerce.php:409
+msgid "Out of Stock"
+msgstr "Obecny brak na stanie"
+
+#: index.php:72
+#, php-format
+msgid ""
+"FacetWP requires PHP %s or above. Please contact your host and request a PHP "
+"upgrade."
+msgstr ""
+"FacetWP wymaga PHP w wersji %s lub wyższej. Skontaktuj się z administratorem "
+"i poproś o uaktualnienie PHP."
+
+#: templates/page-settings.php:24
+msgid "This facet type has no additional settings."
+msgstr "Ten typ Faceta nie ma żadnych dodatkowych ustawień"
+
+#: templates/page-settings.php:90
+#, fuzzy
+#| msgid "Basic"
+msgid "Basics"
+msgstr "Podstawowe"
+
+#: templates/page-settings.php:92
+msgid "Support"
+msgstr "Pomoc techniczna"
+
+#: templates/page-settings.php:101
+msgid "Show indexer stats"
+msgstr ""
+
+#: templates/page-settings.php:102
+#, fuzzy
+#| msgid "All post types"
+msgid "Show indexable post types"
+msgstr "Wszystkie typy postu"
+
+#: templates/page-settings.php:103
+msgid "Purge the index table"
+msgstr ""
+
+#: templates/page-settings.php:108
+#, fuzzy
+#| msgid "Save Changes"
+msgid "Save changes"
+msgstr "Zapisz zmiany"
+
+#: templates/page-settings.php:126
+msgid "Back"
+msgstr "Wróć"
+
+#: templates/page-settings.php:133
+msgid "Facets"
+msgstr "Facets"
+
+#: templates/page-settings.php:134 templates/page-settings.php:141
+#, fuzzy
+#| msgid "Add New"
+msgid "Add new"
+msgstr "Dodaj nowy"
+
+#: templates/page-settings.php:140
+msgid "Templates"
+msgstr "Szablony"
+
+#~ msgid "Start typing..."
+#~ msgstr "Zacznij pisać..."
+
+#~ msgid "Off"
+#~ msgstr "Wyłączony"
+
+#~ msgid "On"
+#~ msgstr "Włączony"
+
+#~ msgid "Are you sure?"
+#~ msgstr "Jesteś pewny?"
+
+#~ msgid "Select some items"
+#~ msgstr "Wybierz niektóre elementy"
+
+#~ msgid "Open query builder"
+#~ msgstr "Stwórz zapytanie do bazy danych"
+
+#~ msgid "What goes here?"
+#~ msgstr "Co tu jest?"
+
+#~ msgid "Query Builder"
+#~ msgstr "Budowa zapytania"
+
+#, fuzzy
+#~| msgid "Which posts would you like to use for the content listing?"
+#~ msgid "Which posts would you like to use for the listing?"
+#~ msgstr "Które wpisy chcesz używać do wyświetlania treści?"
+
+#~ msgid "Send to editor"
+#~ msgstr "Wyślij do edytora"
+
+#, fuzzy
+#~| msgid "Min"
+#~ msgid "min"
+#~ msgstr "Minimum"
+
+#, fuzzy
+#~| msgid "Max"
+#~ msgid "max"
+#~ msgstr "Maksimum"
+
+#~ msgid "Update"
+#~ msgstr "Aktualizuj"
+
+#~ msgid "OK"
+#~ msgstr "OK"
+
+#~ msgid "Use a separate value for the longitude?"
+#~ msgstr "Używać separatora dla długości geograficznej?"
+
+#~ msgid "Welcome"
+#~ msgstr "Witamy"
+
+#~ msgid "Welcome to FacetWP"
+#~ msgstr "Witamy w FacetWP"

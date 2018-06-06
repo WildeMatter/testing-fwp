@@ -1,0 +1,13 @@
+{
+  "name": "facetwp",
+  "devDependencies": {
+    "rollup": "^0.59.4",
+    "rollup-plugin-buble": "^0.19.2",
+    "rollup-plugin-multi-entry": "^2.0.2",
+    "rollup-plugin-terser": "^1.0.1"
+  },
+  "scripts": {
+    "build": "rollup -c",
+    "watch": "rollup -c -w"
+  }
+}

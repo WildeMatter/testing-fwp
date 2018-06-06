@@ -1,0 +1,1 @@
+{"facets":[{"name":"categories","label":"Categories","type":"checkboxes","source":"tax\/category","parent_term":"","hierarchical":"no","show_expanded":"no","ghosts":"no","preserve_ghosts":"no","operator":"and","orderby":"count","count":"10","soft_limit":"5"}],"templates":[{"name":"example","label":"Example","query":"","template":""}]}
